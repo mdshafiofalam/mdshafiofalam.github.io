@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: shafiulshafiul_academic_portfolio_pic.jpg
+  image: shafiul_academic_portfolio_pic.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <a href="mailto:md.2.alam@student.oulu.fi">md.2.alam@student.oulu.fi</a>
