@@ -9,7 +9,7 @@ profile:
   image: shafiul_academic_portfolio_pic.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Email: <a href="mailto:md.2.alam@student.oulu.fi">md.2.alam@student.oulu.fi</a><p>
+    <p>Email:<a href="mailto:md.2.alam@student.oulu.fi">md.2.alam@student.oulu.fi</a><p>
     <p>Oulu, Finland</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
