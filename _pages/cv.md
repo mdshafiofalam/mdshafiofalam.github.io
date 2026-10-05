@@ -13,4 +13,4 @@ cv_pdf: /assets/pdf/New_CV_MD_Shafiul_Alam.pdf # you can also use external links
 ---
 
 
-<iframe src="\assets\pdf\New_CV_MD_Shafiul_Alam.pdf" width="100%" height="600px"></iframe> 
+<iframe src="/assets/pdf/New_CV_MD_Shafiul_Alam.pdf" width="100%" height="600px"></iframe> 
