@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Selected academic projects
+description: Selected academic projects (Work in progress)
 nav: true
 nav_order: 3
 display_categories: [work, fun]
