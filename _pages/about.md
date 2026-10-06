@@ -9,7 +9,7 @@ profile:
   image: shafiul_academic_portfolio_pic.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Email:<a href="mailto:md.2.alam@student.oulu.fi">md.2.alam@student.oulu.fi</a><p>
+    <p>md.2.alam[at]student.oulu.fi<p>
     <p>Oulu, Finland</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -28,6 +28,6 @@ latest_posts:
 
 
 
-I enjoy exploring how users' characteristics and surroundings shape their interactions with technology and designing interactive systems that account for these factors, giving users greater control over technology and empowering them. Currently, I am interested in **designing technology for sustainability**, and want to persue a research carrer in this direction.
+I enjoy exploring how users' characteristics and surroundings shape their interactions with technology and designing interactive systems that account for these factors, giving users greater control over technology and empowering them. Currently, I am interested in **designing technology for sustainability**, and want to persue a research career in this direction.
 
-I have completed Masters in **Information Processing Science (IPS)** from the [University of Oulu](https://www.oulu.fi/en), I took the **Informaiton System Orientation**, and have completed: **Human-Centered Design & User Experience** and **Persuasive Design & Gamification** specializations. In my masters thesis I have explored local community sustainability from computing infrasturcutre supervised by [Prof. Marianne Kinnula](https://mariannekinnula.net/), where, I developed a human-centric sustainable data center establishement and operational guideline. I also hold a Bachelor in **Computer Scinece & Engineering** from [Daffodil International University](https://daffodilvarsity.edu.bd/).
+I have completed Masters in **Information Processing Science (IPS)** from the [University of Oulu](https://www.oulu.fi/en), I took the **Informaiton System Orientation**, and have completed: **Human-Centered Design & User Experience** and **Persuasive Design & Gamification** specializations. In my masters thesis I have explored local community sustainability from computing infrasturcutre supervised by [Prof. Marianne Kinnula](https://mariannekinnula.net/), where, I developed a human-centric sustainable data center establishement and operational guideline. I also hold a Bachelor in **Computer Scinece & Engineering** from [Daffodil International University](https://daffodilvarsity.edu.bd/). You can call me eithr MD or Shafiul, I am ok with both.
