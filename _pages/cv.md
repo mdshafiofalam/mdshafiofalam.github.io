@@ -11,4 +11,3 @@ nav_order: 5
 #toc:
 #  sidebar: left
 ---
-<iframe src="\assets\pdf\New_CV_MD_Shafiul_Alam.pdf" width="100%" height="600px"></iframe>
