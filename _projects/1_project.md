@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ecoland_Econews
+title: Ecoland : Econews
 description: with background image
 img: assets/img/12.jpg
 importance: 1
