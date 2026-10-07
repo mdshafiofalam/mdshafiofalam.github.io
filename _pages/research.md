@@ -14,12 +14,12 @@ I conducted a qualitative, exploratory study with residents of Oulu City to capt
 
 [OuluRepo Thesis Link](https://oulurepo.oulu.fi/handle/10024/63656)
 
-<u>Md Shafiul Alam</u>, Marianne Kinnula, Dorina Rajanen. Green-washing is Cheap, Show Me the Numbers: Exploring Community Sustainability Requirements for Data Center Operation. [Under Review.]
+<u>Md Shafiul Alam</u>, Marianne Kinnula, Dorina Rajanen. **Green-washing is Cheap, Show Me the Numbers: Exploring Community Sustainability Requirements for Data Center Operation.** [Under Review.]
 
 # Undergraduate Students' Knowledge on AI Sustainability in Low-Resource Environment
 
 In this research project, I have collaborated with researchers from Bangladesh. Here, we conducted a qualitative study of final-year (4th-year) Computer Science university students; there, we explored their knowledge, perceptions, and practices regarding AI sustainability concepts. Later, the study's findings were used to suggest modifications to AI teaching methods to make sustainability-related concepts more inclusive in academic discussions.
 
-Syed Tangim Pasha*, <u>Md Shafiul Alam*</u>, Md. Saad Bin Kamal*, Nusrat Jahan Nishat, Monjurul Ahsan Bhuiyan, Jannatun Noor. **Understanding Computer Science Students’ Knowledge and Perceptions of AI Sustainability in Bangladesh.** [Under Review.]
+Syed Tangim Pasha*, <u>Md Shafiul Alam*</u>, Md. Saad Bin Kamal*, Nusrat Jahan Nishat, Monjurul Ahsan Bhuiyan, Jannatun Noor. **Understanding Computer Science Students’ Knowledge and Perceptions of AI Sustainability in Bangladesh.** [Under Review.] | [Pre-print.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7429048)
 
 * = first author
