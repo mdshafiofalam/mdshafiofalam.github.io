@@ -2,7 +2,7 @@
 layout: page
 title: Ecoland: Econews
 description: with background image
-img: assets/img/12.jpg
+#img: assets/img/12.jpg
 importance: 1
 category: design&userStudies
 #related_publications: true
