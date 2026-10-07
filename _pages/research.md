@@ -2,63 +2,16 @@
 layout: page
 title: research
 permalink: /research/
-description: Selected academic projects (Work in progress)
+description:
 nav: true
 nav_order: 2
 
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
+# Computing Infrastrucutre (Data Center) and Community Sustainability
 
-{% else %}
+I conducted a qualitative, exploratory study with residents of Oulu City to capture their voices on the sustainability of their community in relation to datacenter operations. For this, I collected **Semi-structured** and **Participatory Design** data and analyzed it using Braun and Clarke’s six-step thematic analysis framework. The findings were used to inform data center operation guidelines to ensure local population sustainability in economic, social, and environmental aspects, which can be used by the government and data center operation companies to start a data center project. The study's findings also contributed to the Sustainable Human Computer literature by introducing human-centric critical infrastructure design concepts.
 
-<!-- Display projects without categories -->
+[OuluRepo Thesis Link](https://oulurepo.oulu.fi/handle/10024/63656)
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
-
-  <!-- Generate cards for each project -->
-
-{% if page.horizontal %}
-
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
+<u>Md Shafiul Alam</u>, Marianne Kinnula, Dorina Rajanen. **Green-washing is Cheap, Show Me the Numbers: Exploring Community Sustainability Requirements for Data Center Operation**. [Under Review].
