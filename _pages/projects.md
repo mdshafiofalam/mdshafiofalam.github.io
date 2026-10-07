@@ -6,7 +6,7 @@ description: Selected academic projects (Work in progress)
 nav: true
 nav_order: 3
 display_categories: [work, fun, Design and User Studies]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
