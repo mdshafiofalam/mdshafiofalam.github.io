@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Ecoland: Econews
+title: Ecoland_Econews
 description: with background image
-#img: assets/img/12.jpg
+img: assets/img/12.jpg
 importance: 1
-category: design&userStudies
+category: Design and User Studies
 #related_publications: true
 ---
 
