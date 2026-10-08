@@ -1,6 +1,6 @@
 ---
 layout: page
-title: We need more user studies and gamified elements: A deeper look into the gamification and user-centred methods in security & privacy training 
+title: We need more user studies and gamified elements A deeper look into the gamification and user-centred methods in security & privacy training 
 description: March 2025
 img:
 importance: 2
