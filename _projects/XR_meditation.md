@@ -3,7 +3,7 @@ layout: page
 title: XR Meditation: Companion App & Research Data Collection 
 description: April 2025
 img:
-importance: 12
+importance: 2
 category: Design&UserStudy
 #related_publications: true
 ---

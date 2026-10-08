@@ -5,7 +5,7 @@ permalink: /projects/
 description: Selected academic projects (Work in progress)
 nav: true
 nav_order: 3
-display_categories: [Design&UserStudy, work, fun]
+display_categories: [Design&UserStudy, Development]
 horizontal: false
 ---
 
