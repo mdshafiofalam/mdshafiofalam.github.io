@@ -2,7 +2,7 @@
 layout: page
 title: Ecoland Econews 
 description: May 2026
-img: assets/img/12.jpg
+img:
 importance: 1
 category: Design&UserStudy
 #related_publications: true
