@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ecoland \: Econews 
+title: Ecoland Econews 
 description: May 2026
 img:
 importance: 1
