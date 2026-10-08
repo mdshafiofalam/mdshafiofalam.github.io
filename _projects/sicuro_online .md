@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DigiPet (Tamagotchi Type Game) 
+title: Sicuro Online  
 description: February 2025
 img:
 importance: 4
@@ -8,5 +8,5 @@ category: Design&UserStudy
 #related_publications: true
 ---
 
-Designed a virtual pet game inspired by the Tamagotchi retro game concept to provide a user experience like relaxation, emotional connection, and virtual character simulation.
-Conducted an initial user study to draw potential game features, developed a Hi-Fi prototype from wireframing the user-provided concepts, later completed a User Experience study, and made changes to the product from collected data.
+Developed a mobile app concept to alter and persist online privacy and security behavior.
+The core functionality of the app will be guided by a behavior change support system with persuasive system design principles to ensure a smoother user experience and greater behavior change outcomes.
