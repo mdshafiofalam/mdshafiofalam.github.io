@@ -23,7 +23,6 @@ I led a team of five members to investigate the usability and user experience of
 We conducted expert evaluation, then searched & selected appropriate Usability methods from the literature for the VR-based system VRSUQ (Virtual Reality System Usability Questionnaire) and the mobile app SUS (System Usability Survey). 
 Designed a testing method for the usability evaluation and data collection; later recommendations were drawn for future improvement based on the analysis results.
 
-
-<P><hr></p>
+<hr>
 
 <a href="https://docs.google.com/presentation/d/1MWRWvB73ZpcOSGlQEUVNM-vDVsGVFKl_/edit?usp=sharing&ouid=102510822696141647762&rtpof=true&sd=true" target="_blank">Seminar Presentation</a> | <a href="https://drive.google.com/file/d/1ee_EN2WjU3O6d2zu5VkTN2_lEtb_rogE/view?usp=sharing" target="_blank"> Test Highlight </a> | <a href="https://drive.google.com/file/d/1pTw2dMSdtC7CbMR5PShDbqLhsVLt9025/view?usp=sharing" target="_blank"> Final Report</a>.
