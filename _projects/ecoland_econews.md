@@ -2,7 +2,7 @@
 layout: page
 title: Ecoland Econews 
 description: May 2026
-img: assets\img\project images\Ecoland\01.png
+img: assets/img/project_images/Ecoland/01.png
 importance: 1
 category: Design&UserStudy
 #related_publications: true
@@ -10,13 +10,13 @@ category: Design&UserStudy
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\project images\Ecoland\01.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_images/Ecoland/01.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\project images\Ecoland\02.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_images/Ecoland/02.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\project images\Ecoland\03.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_images/Ecoland/03.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 
 Our team has designed and developed a sustainability-related serious game named Ecoland: Econews. The Ecoland game concept was created by Anjalee Wanigarathne as part of her Master's thesis. From there, we expanded the game concept according to the project clients' (Dorina Rajanen and Mikko Rajanen) requirements.
