@@ -14,7 +14,7 @@ I conducted a qualitative, exploratory study with residents of Oulu city to capt
 
 [OuluRepo Thesis Link](https://oulurepo.oulu.fi/handle/10024/63656)
 
-Currently a manuscript based on the thesis is sumitted to a leading HCI venue.
+**Currently a manuscript based on the thesis is sumitted to a leading HCI venue.**
 
 <u>Md Shafiul Alam</u>, Marianne Kinnula, Dorina Rajanen. **Green-washing is Cheap, Show Me the Numbers: Exploring Community Sustainability Requirements for Data Center Operation.** [Under Review.]
 
@@ -23,6 +23,8 @@ Currently a manuscript based on the thesis is sumitted to a leading HCI venue.
 ### Undergraduate Students' Knowledge on AI Sustainability in Low-resource Environment
 
 In this project, I have collaborated with researchers from Bangladesh. Here, we conducted a qualitative study of Computer Science university students on their knowledge, perceptions, and practices regarding AI sustainability concepts. We unpacked their learning methods realated to AI and sustainability concepts, then we advocated for inclusion of sustainability concepts in the AI course classroom and made suggestion for curriculumn modifications based on students practices and expectations. For for making the sustainability-related concepts more inclusive in the AI discussion.
+
+**A manuscript based on the project is under review in a journal**
 
 Syed Tangim Pasha', <u>Md Shafiul Alam'</u>, Md. Saad Bin Kamal', Nusrat Jahan Nishat, Monjurul Ahsan Bhuiyan, Jannatun Noor. **Understanding Computer Science Students’ Knowledge and Perceptions of AI Sustainability in Bangladesh.** [Under Review.] [Pre-print.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7429048)
 
