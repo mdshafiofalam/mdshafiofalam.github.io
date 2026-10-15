@@ -28,3 +28,6 @@ First, we created a Figma prototype based on the necessary changes, then we deve
 [OuluRepo Thesis Link](https://oulurepo.oulu.fi/handle/10024/63656).
 
 Test text.
+
+<a href="https://oulurepo.oulu.fi/handle/10024/63656" target="_blank">OuluRepo Thesis Link</a>
+
