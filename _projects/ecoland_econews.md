@@ -24,4 +24,6 @@ Our team has designed and developed a sustainability-related serious game named 
 In our work, we have expanded the game concept by reviewing scientific literature related to Gamification, climate change information dissemination, user-centered design, and game engine selection. We expanded it by including primary and secondary game loops with multiple game progression concepts such as time shift and episodic, and added Econews, a text annotation mini-game with the “Citizen Science” concept, which was a major client requirement.
 First, we created a Figma prototype based on the necessary changes, then we developed the functioning version of the game in the Unity game engine.
 
-[OuluRepo Thesis Link](https://oulurepo.oulu.fi/handle/10024/63656)
+[OuluRepo Thesis Link](https://oulurepo.oulu.fi/handle/10024/63656).
+
+[EOF]
