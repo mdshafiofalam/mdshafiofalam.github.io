@@ -25,5 +25,4 @@ In our work, we have expanded the game concept by reviewing scientific literatur
 First, we created a Figma prototype based on the necessary changes, then we developed the functioning version of the game in the Unity game engine.
 
 [OuluRepo Thesis Link](https://oulurepo.oulu.fi/handle/10024/63656).
-
 [EOF]
