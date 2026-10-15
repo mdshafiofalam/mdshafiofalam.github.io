@@ -2,11 +2,22 @@
 layout: page
 title: XR Meditation Companion App & Research Data Collection 
 description: April 2025
-img:
+img: assets/img/project_images/xr_meditation/vr02.png
 importance: 2
 category: Design&UserStudy
 #related_publications: true
 ---
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_images/xr_meditation/vr01.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_images/xr_meditation/vr02.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_images/xr_meditation/vr03.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
 
 I led a team of five members to investigate the usability and user experience of a VR-based meditation system with a Meta Quest 3 headset, with its companion mobile app paired with a Muse EEG headband, and collated data for the project customer.
 We conducted expert evaluation, then searched & selected appropriate Usability methods from the literature for the VR-based system VRSUQ (Virtual Reality System Usability Questionnaire) and the mobile app SUS (System Usability Survey). 
