@@ -21,21 +21,33 @@ Designed a virtual pet game inspired by the Tamagotchi retro game concept to pro
     </div>
 </div>
 <div class="caption">
-    Brainstroming Concepts.
+    Brainstroming Concepts
 </div>
 
 Conducted an initial user study to draw potential game features, developed a Hi-Fi prototype from wireframing the user-provided concepts, later completed a User Experience study, and made changes to the product from collected data.
 
 <div class="row">
+    <div class="col-sm mt-6 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_images/digipet/ia01.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-6 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_images/digipet/ia02.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/01.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_images/digipet/f01.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/02.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_images/digipet/f02.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/03.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_images/digipet/f03.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="caption">
+    Final Version
 </div>
 
 <hr>
