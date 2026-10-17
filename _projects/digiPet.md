@@ -9,7 +9,32 @@ category: Design&UserStudy
 ---
 
 Designed a virtual pet game inspired by the Tamagotchi retro game concept to provide a user experience like relaxation, emotional connection, and virtual character simulation.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/01.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/02.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/03.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
 Conducted an initial user study to draw potential game features, developed a Hi-Fi prototype from wireframing the user-provided concepts, later completed a User Experience study, and made changes to the product from collected data.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/01.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/02.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/03.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 <hr>
 
