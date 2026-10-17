@@ -36,7 +36,7 @@ Our team has designed and developed a sustainability-related serious game named 
 
 Our work, had two phase, in first page, we expanded the game concept by reviewing scientific literature related to Gamification, climate change information dissemination, user-centered design, sustainability, and game engine selection. We expanded it by including primary and secondary game loops with multiple game progression concepts such as time-shift and episodic, and added Econews, a text annotation mini-game with the “Citizen Science” concept (a major client requirement). To test, all the new modifications, we created a hi-fi Figma prototype, and made the whole game, and delivered it for testing to another group. In the second phase, after creating the Figma prototype, we implment a functional version of the game in the Unity.
 
-<br/><br/>
+<br/>
 
 The game had two major compoent: one is the story mode with episodic and time shift concept. The other one is minigames with infinite game concept. In our work, one of the major requirement was to implement the Econews minigame feature for climate related news annotation from YLE (Finnish Public Finnish Broadcasting Company)'s online news site for research data collection. Here, we applied citizen sceice concept to engage public with the game for collect research data.
 

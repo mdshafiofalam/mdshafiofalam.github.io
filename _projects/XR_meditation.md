@@ -34,6 +34,10 @@ I led a team of five members to investigate the usability and user experience of
     
 </div>
 
+
+<img src="assets/img/project_images/ecoland_econews/04.png" alt="Ecoland Econews game loop" style="width:500px;height:600px;">
+
+
 We conducted expert evaluation, then searched & selected appropriate usability methods from the literature for the VR-based system VRSUQ (Virtual Reality System Usability Questionnaire) and the mobile app SUS (System Usability Survey). We designed a testing method for the usability, user experience evaluation and data collection. Based on the analyzed data, we later recommendations were draw recommendation for future improvements.
 
 <hr>
