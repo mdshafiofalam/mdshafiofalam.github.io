@@ -33,9 +33,12 @@ Our team has designed and developed a sustainability-related serious game named 
 </div>
 
 <div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
+  <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/04.png" title="game loop" class="img-fluid center rounded z-depth-1 w-50 h-50" %}
   </div>
+</div>
+<div class="caption">
+    Ecoland Econews game loop
 </div>
 
 
