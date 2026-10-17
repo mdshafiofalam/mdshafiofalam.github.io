@@ -25,12 +25,15 @@ Our team has designed and developed a sustainability-related serious game named 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/04.png" title="game loop" class="img-fluid rounded z-depth-1 width="500" height="600" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/04.png" title="game loop" class="img-fluid rounded z-depth-1 width=60% height=60% %}
     </div>
 </div>
 <div class="caption">
     Ecoland Econews game loop
 </div>
+
+<img src="assets/img/project_images/ecoland_econews/03.png" alt="Girl in a jacket" width="500" height="600">
+
 
 Our work, had two phase, in first page, we expanded the game concept by reviewing scientific literature related to Gamification, climate change information dissemination, user-centered design, sustainability, and game engine selection. We expanded it by including primary and secondary game loops with multiple game progression concepts such as time-shift and episodic, and added Econews, a text annotation mini-game with the “Citizen Science” concept (a major client requirement). To test, all the new modifications, we created a hi-fi Figma prototype, and made the whole game, and delivered it for testing to another group. In the second phase, after creating the Figma prototype, we implment a functional version of the game in the Unity.
 
