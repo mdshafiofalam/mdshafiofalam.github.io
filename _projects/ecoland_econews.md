@@ -24,7 +24,7 @@ category: Design&UserStudy
 Our team has designed and developed a sustainability-related serious game named Ecoland: Econews. The initial Ecoland game concept was created by Anjalee Wanigarathne for her master's thesis. We received the project as a conceptual game with backend story, and game portions designed in Figma for user testing for the thesis work. From there, we expanded the game concept according to the project clients' (Dorina Rajanen and Mikko Rajanen) requirements, and implemented the functional game in Unity.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/04.png" title="game loop" class="img-fluid rounded z-depth-1 w-50 h-50" %}
     </div>
 </div>
