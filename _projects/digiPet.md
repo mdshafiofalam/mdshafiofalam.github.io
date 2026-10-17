@@ -2,7 +2,7 @@
 layout: page
 title: DigiPet (Tamagotchi Type Game)
 description: March 2025
-img: assets/img/project_images/digipet/f01.png
+img: assets/img/project_images/digipet/cf.png
 importance: 3
 category: Design&UserStudy
 #related_publications: true
