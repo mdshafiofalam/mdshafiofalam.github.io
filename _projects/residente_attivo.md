@@ -8,7 +8,7 @@ category: Design&UserStudy
 #related_publications: true
 ---
 
-Conceptualized an RPG-based game with a user-centric design development method for the Urban Population to promote healthy and sustainable lifestyles.
+Conceptualized an RPG-based game with a user-centric design development method for the Urban Population to promote healthy and sustainable lifestyles. Based our games's output inline with UN's 3 SDG goals.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -49,7 +49,7 @@ The game is framed in a post-apocalyptic setting, where the user's actions will 
     </div>
 </div>
 <div class="caption">
-    Games Three Game Loops
+    Resident Attivo's Three Game Loops
 </div>
 
 <hr>
