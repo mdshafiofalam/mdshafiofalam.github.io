@@ -25,6 +25,21 @@ Developed a mobile app concept to alter and persist online privacy and security 
     Paper Prototype
 </div>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/el01.png" title="example image Ecoland" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/el02.png" title="example image Ecoland" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/el03.png" title="example image Ecoland" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Ecoland
+</div>
+
 
 <hr>
 
