@@ -12,13 +12,13 @@ Conceptualized an RPG-based game with a user-centric design development method f
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/rasdg01.png" title="SDG 3" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_images/residente_attivo/rasdg01.png" title="SDG 3" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/rasdg02.png" title="SDG 11" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_images/residente_attivo/rasdg02.png" title="SDG 11" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/rasdg03.png" title="SDG 13" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_images/residente_attivo/rasdg03.png" title="SDG 13" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -29,7 +29,7 @@ The game is framed in a post-apocalyptic setting, where the user's actions will 
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-12 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/ra_full_game_loop.png" title="game loop" class="img-fluid rounded z-depth-1 w-50 h-50" %}
+    {% include figure.liquid loading="eager" path="assets/img/project_images/residente_attivo/ra_full_game_loop.png" title="game loop" class="img-fluid rounded z-depth-1 w-50 h-50" %}
   </div>
 </div>
 <div class="caption">
@@ -39,13 +39,13 @@ The game is framed in a post-apocalyptic setting, where the user's actions will 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="ra_game_loop01.png" title="SDG 3" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_images/residente_attivo/ra_game_loop01.png" title="SDG 3" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="ra_game_loop01.png" title="SDG 11" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_images/residente_attivo/ra_game_loop01.png" title="SDG 11" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="ra_game_loop01.png" title="SDG 13" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_images/residente_attivo/ra_game_loop01.png" title="SDG 13" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
