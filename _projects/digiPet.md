@@ -40,13 +40,13 @@ We started our project by first conducting an initial user study to draw potenti
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_images/digipet/f01.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_images/digipet/f01.png" title="example image" class="img-fluid rounded z-depth-1 w-50 h-50" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_images/digipet/f02.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_images/digipet/f02.png" title="example image" class="img-fluid rounded z-depth-1 w-50 h-50" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_images/digipet/f03.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_images/digipet/f03.png" title="example image" class="img-fluid rounded z-depth-1 w-50 h-50" %}
     </div>
 </div>
 <div class="caption">
