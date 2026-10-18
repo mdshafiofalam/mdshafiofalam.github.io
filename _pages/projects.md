@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Academic Portfolio (work in progress)
+description: Academic Portfolio
 nav: true
 nav_order: 3
 display_categories: [Design&UserStudy, Development, Others]
