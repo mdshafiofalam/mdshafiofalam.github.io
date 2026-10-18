@@ -2,7 +2,7 @@
 layout: page
 title: Multinational Interact 
 description: December 2024
-img: assets/img/project_images/multinational_interact/micp.png
+img: assets/img/project_images/ecoland_econews/el01.png
 importance: 5
 category: Design&UserStudy
 #related_publications: true
