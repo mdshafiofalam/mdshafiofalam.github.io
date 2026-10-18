@@ -17,7 +17,7 @@ Designed a virtual pet game inspired by the Tamagotchi retro game concept to pro
         {% include figure.liquid loading="eager" path="assets/img/project_images/digipet/bs02.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_images/digipet/bs03.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_images/digipet/bs03.jpg" title="example image" class="img-fluid rounded z-depth-1 h-160" %}
     </div>
 </div>
 <div class="caption">
