@@ -28,10 +28,10 @@ Conducted an initial user study to draw potential game features, developed a Hi-
 
 <div class="row">
     <div class="col-sm mt-6 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_images/digipet/ia01.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_images/digipet/ia01.png" title="example image" class="img-fluid rounded z-depth-1 h-160" %}
     </div>
     <div class="col-sm mt-6 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_images/digipet/ia02.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_images/digipet/ia02.png" title="example image" class="img-fluid rounded z-depth-1 h-160" %}
     </div>
 </div>
 <div class="caption">
