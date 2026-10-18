@@ -24,7 +24,7 @@ Designed a virtual pet game inspired by the Tamagotchi retro game concept to pro
     Brainstroming Concepts
 </div>
 
-Conducted an initial user study to draw potential game features, developed a Hi-Fi prototype from wireframing the user-provided concepts, later completed a User Experience study, and made changes to the product from collected data.
+We started our project by first conducting an initial user study to draw potential game features, then developed persona to draw game user audiance and prioritize features, then developed an wireframing. After than developed a Hi-Fi prototype and conducted a User Experience study, based on the study data made changes to the games elements.
 
 <div class="row">
     <div class="col-sm mt-6 mt-md-0">
