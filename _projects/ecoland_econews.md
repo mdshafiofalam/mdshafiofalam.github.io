@@ -29,7 +29,7 @@ Our team has designed and developed a serious game focused on climate change, en
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-12 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/gloop.png" title="game loop" class="img-fluid rounded z-depth-1 w-50 h-50" %}
+    {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/gloop.png" title="game loop" class="img-fluid rounded z-depth-1 w-60 h-60" %}
   </div>
 </div>
 <div class="caption">

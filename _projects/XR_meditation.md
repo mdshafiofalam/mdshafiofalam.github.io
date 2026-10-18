@@ -23,7 +23,7 @@ category: Design&UserStudy
     XR System Meditation Game
 </div>
 
-I led a team of five members to investigate the usability and user experience of a XR meditatin system. The project was at in its development phase in the OASIS research unit at the University of Oulu, Juho Mattila was our project customer. The XR system has two major component, VR-based meditation system build on Meta Quest 3 headset, and a android based companion app, that connects with Muse EEG headband, and collects data while player is doing meditation. 
+I led a team of five members to investigate the usability and user experience of a XR meditatin system. The project was at in its development phase in the [OASIS](https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/oulu-advanced-research-service-and-information-systems) research unit at the University of Oulu, Juho Mattila was our project customer. The XR system has two major component, VR-based meditation system build on Meta Quest 3 headset, and a android based companion app, that connects with Muse EEG headband, and collects data while player is doing meditation. 
 
 
 <div class="row justify-content-sm-center">
