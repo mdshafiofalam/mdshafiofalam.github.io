@@ -14,17 +14,33 @@ Conceptualized the app idea, then refined it by comparing it against existing on
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/el01.png" title="example image Multinational Interact" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/el01.png" title="example image Multinational Interact Multinational Interact Paper Prototype" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/el02.png" title="example image Multinational Interact" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/el02.png" title="example image Multinational Interact Multinational Interact Paper Prototype" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/el03.png" title="example image Multinational Interact" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/el03.png" title="example image Multinational Interact Multinational Interact Paper Prototype" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Multinational Interact
+    Multinational Interact Paper Prototype
+</div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/el01.png" title="example image Multinational Interact Hi-fi Prototype" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/el02.png" title="example image Multinational Interact Hi-fi Prototype" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/el03.png" title="example image Multinational Interact Hi-fi Prototype" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Multinational Interact Hi-fi Prototype
 </div>
 
 <hr>
