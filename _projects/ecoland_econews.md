@@ -10,13 +10,13 @@ category: Design&UserStudy
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/el01.png" title="example image Ecoland" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/el01.png" title="example image Ecoland" class="img-fluid rounded z-depth-1 h-150" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/el02.png" title="example image Ecoland" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/el02.png" title="example image Ecoland" class="img-fluid rounded z-depth-1 h-150" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/el03.png" title="example image Ecoland" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/el03.png" title="example image Ecoland" class="img-fluid rounded z-depth-1 h-150" %}
     </div>
 </div>
 <div class="caption">
@@ -41,13 +41,13 @@ Our work, had two phase, in first page, we expanded the game concept by reviewin
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/en01.png" title="example image Econews" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/en01.png" title="example image Econews" class="img-fluid rounded z-depth-1 h-150" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/en02.png" title="example image Econews" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/en02.png" title="example image Econews" class="img-fluid rounded z-depth-1 h-150" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/en03.png" title="example image Econews" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_images/ecoland_econews/en03.png" title="example image Econews" class="img-fluid rounded z-depth-1 h-150" %}
     </div>
 </div>
 <div class="caption">

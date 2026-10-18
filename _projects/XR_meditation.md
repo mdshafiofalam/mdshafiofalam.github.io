@@ -10,22 +10,20 @@ category: Design&UserStudy
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_images/xr_meditation/vr01.png" title="VR system example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_images/xr_meditation/vr01.png" title="VR system example image" class="img-fluid rounded z-depth-1 h-150" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_images/xr_meditation/vr02.png" title="VR system example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_images/xr_meditation/vr02.png" title="VR system example image" class="img-fluid rounded z-depth-1 h-150" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_images/xr_meditation/vr03.png" title="VR system example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_images/xr_meditation/vr03.png" title="VR system example image" class="img-fluid rounded z-depth-1 h-150" %}
     </div>
 </div>
 <div class="caption">
     XR System Meditation Game
 </div>
 
-I led a team of five members to investigate the usability and user experience of a VR-based meditation system with a Meta Quest 3 headset, with its companion mobile app paired with a Muse EEG headband, and collated data for the project customer.
-
-<br>
+I led a team of five members to investigate the usability and user experience of a XR meditatin system. The project was at in its development phase in the OASIS research unit at the University of Oulu, Juho Mattila was our project customer. The XR system has two major component, VR-based meditation system build on Meta Quest 3 headset, and a android based companion app, that connects with Muse EEG headband, and collects data while player is doing meditation. 
 
 
 <div class="row justify-content-sm-center">
@@ -40,7 +38,7 @@ I led a team of five members to investigate the usability and user experience of
     Companion App
 </div>
 
-We conducted expert evaluation, then searched & selected appropriate usability methods from the literature for the VR-based system VRSUQ (Virtual Reality System Usability Questionnaire) and the mobile app SUS (System Usability Survey). We designed a testing method for the usability, user experience evaluation and data collection. Based on the analyzed data, we later recommendations were draw recommendation for future improvements.
+In the project, we conducted the expert evaluation, then searched & selected appropriate usability methods from the literature for the VR-based system using VRSUQ (Virtual Reality System Usability Questionnaire) and for the mobile app using SUS (System Usability Survey). After that, we designed a testing method for the usability, user experience evaluation and data collection all the same time. Based on the analyzed data, we later recommendations were draw recommendation for future improvements from physical to in-game usability and user experience.
 
 <hr>
 
