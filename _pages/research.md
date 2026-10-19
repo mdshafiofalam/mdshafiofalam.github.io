@@ -16,7 +16,7 @@ For my MS thesis, I conducted a qualitative, exploratory study with residents of
 
 **Currently a manuscript based on the thesis is sumitted to a leading HCI venue.**
 
-<u>Md Shafiul Alam</u>, Marianne Kinnula, Dorina Rajanen. **Green-washing is Cheap, Show Me the Numbers: Exploring Community Sustainability Requirements for Data Center Operation.** [Under Review.]
+<u>Md Shafiul Alam</u>, Marianne Kinnula, Dorina Rajanen. **Green-washing is Cheap, Show Me the Numbers: Exploring Community Sustainability Requirements for Data Center Operation.** [Under Review]
 
 ***
 
