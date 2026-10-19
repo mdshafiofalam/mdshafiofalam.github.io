@@ -26,6 +26,6 @@ In this project, I have collaborated with researchers from Bangladesh. Here, we 
 
 **A manuscript based on the project is under review in a journal**
 
-Syed Tangim Pasha', <u>Md Shafiul Alam'</u>, Md. Saad Bin Kamal', Nusrat Jahan Nishat, Monjurul Ahsan Bhuiyan, Jannatun Noor. **Understanding Computer Science Students’ Knowledge and Perceptions of AI Sustainability in Bangladesh.** [Under Review.] [Pre-print.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7429048)
+Syed Tangim Pasha', <u>Md Shafiul Alam'</u>, Md. Saad Bin Kamal', Nusrat Jahan Nishat, Monjurul Ahsan Bhuiyan, Jannatun Noor. **Understanding Computer Science Students’ Knowledge and Perceptions of AI Sustainability in Bangladesh.** [Under Review] [[Pre-print.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7429048)]
 
 ' = first author
