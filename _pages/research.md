@@ -22,7 +22,7 @@ For my MS thesis, I conducted a qualitative, exploratory study with residents of
 
 ### Undergraduate Students' Knowledge on AI Sustainability in Low-resource Environment
 
-In this project, I have collaborated with researchers from Bangladesh. Here, we conducted a qualitative study of Computer Science students on their knowledge, perceptions, and practices regarding AI sustainability concepts. We unpacked their learning methods realated to AI and sustainability concepts, then we advocated for inclusion of sustainability concepts in the AI course classroom and made suggestion for curriculumn modifications based on students practices and expectations. For for making the sustainability-related concepts more inclusive in the AI classroom discussion.
+In this project, I have collaborated with researchers from Bangladesh. Here, we conducted a qualitative study of Computer Science students on their knowledge, perceptions, and practices regarding AI sustainability concepts. We unpacked their learning methods realated to AI and sustainability concepts, then we advocated for inclusion of sustainability concepts in the AI courses' classroom and made suggestion for curriculumn modifications based on students practices and expectations.
 
 **A manuscript based on the project is under review in a journal**
 
